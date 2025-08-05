@@ -2,7 +2,7 @@
   {
     "ContainingType": "UsuarioApi.Controllers.UsuarioController",
     "Method": "CadastraUsuario",
-    "RelativePath": "Usuario",
+    "RelativePath": "Usuario/cadastro",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -10,6 +10,22 @@
       {
         "Name": "dto",
         "Type": "UsuarioApi.Data.Dtos.CreateUsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UsuarioApi.Controllers.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "Usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "UsuarioApi.Data.Dtos.LoginUsuarioDto",
         "IsRequired": true
       }
     ],
