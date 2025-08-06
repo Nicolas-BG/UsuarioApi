@@ -15,6 +15,22 @@
       "RelativeMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\usuarioapi\\usuarioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\usuarioapi\\usuarioapi\\authorization\\idadeauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\authorization\\idadeauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\usuarioapi\\usuarioapi\\authorization\\idademinima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\authorization\\idademinima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\usuarioapi\\usuarioapi\\controllers\\acessocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\controllers\\acessocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\usuarioapi\\usuarioapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\usuarioapi\\usuarioapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\usuarioapi\\usuarioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|solutionrelative:usuarioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C2C27E0-0A32-45A7-8060-5FD30F42F5BC}|UsuarioApi\\UsuarioApi.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\usuarioapi\\usuarioapi\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,8 +70,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdadeAuthorization.cs",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Authorization\\IdadeAuthorization.cs",
+              "RelativeDocumentMoniker": "UsuarioApi\\Authorization\\IdadeAuthorization.cs",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Authorization\\IdadeAuthorization.cs",
+              "RelativeToolTip": "UsuarioApi\\Authorization\\IdadeAuthorization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:34:40.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdadeMinima.cs",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Authorization\\IdadeMinima.cs",
+              "RelativeDocumentMoniker": "UsuarioApi\\Authorization\\IdadeMinima.cs",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Authorization\\IdadeMinima.cs",
+              "RelativeToolTip": "UsuarioApi\\Authorization\\IdadeMinima.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:30:01.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AcessoController.cs",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Controllers\\AcessoController.cs",
+              "RelativeDocumentMoniker": "UsuarioApi\\Controllers\\AcessoController.cs",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Controllers\\AcessoController.cs",
+              "RelativeToolTip": "UsuarioApi\\Controllers\\AcessoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:22:46.196Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -68,27 +119,14 @@
               "RelativeDocumentMoniker": "UsuarioApi\\Services\\TokenService.cs",
               "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Services\\TokenService.cs",
               "RelativeToolTip": "UsuarioApi\\Services\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T22:20:46.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "UsuarioApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "UsuarioApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-05T21:35:39.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\appsettings.json",
               "RelativeDocumentMoniker": "UsuarioApi\\appsettings.json",
@@ -107,14 +145,14 @@
               "RelativeDocumentMoniker": "UsuarioApi\\Program.cs",
               "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Program.cs",
               "RelativeToolTip": "UsuarioApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T17:58:11.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "UsuarioApi\\Models\\Usuario.cs",
@@ -127,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CreateUsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Data\\Dtos\\CreateUsuarioDto.cs",
               "RelativeDocumentMoniker": "UsuarioApi\\Data\\Dtos\\CreateUsuarioDto.cs",
@@ -136,32 +174,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T17:38:03.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "UsuarioApi\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "UsuarioApi\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T17:31:53.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250805182824_Criando Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Migrations\\20250805182824_Criando Usuario.cs",
-              "RelativeDocumentMoniker": "UsuarioApi\\Migrations\\20250805182824_Criando Usuario.cs",
-              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Migrations\\20250805182824_Criando Usuario.cs",
-              "RelativeToolTip": "UsuarioApi\\Migrations\\20250805182824_Criando Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T18:28:24.888Z",
               "EditorCaption": ""
             },
             {
@@ -179,7 +191,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UsuarioApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UsuarioApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T21:35:39.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "UsuarioApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "UsuarioApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T17:31:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250805182824_Criando Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Migrations\\20250805182824_Criando Usuario.cs",
+              "RelativeDocumentMoniker": "UsuarioApi\\Migrations\\20250805182824_Criando Usuario.cs",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Migrations\\20250805182824_Criando Usuario.cs",
+              "RelativeToolTip": "UsuarioApi\\Migrations\\20250805182824_Criando Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:28:24.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LoginUsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Data\\Dtos\\LoginUsuarioDto.cs",
               "RelativeDocumentMoniker": "UsuarioApi\\Data\\Dtos\\LoginUsuarioDto.cs",
@@ -192,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "UsuarioProfile.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Profiles\\UsuarioProfile.cs",
               "RelativeDocumentMoniker": "UsuarioApi\\Profiles\\UsuarioProfile.cs",
@@ -205,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "UsuarioDbContext.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\UsuarioApi\\UsuarioApi\\Data\\UsuarioDbContext.cs",
               "RelativeDocumentMoniker": "UsuarioApi\\Data\\UsuarioDbContext.cs",

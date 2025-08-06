@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "UsuarioApi.Controllers.AcessoController",
+    "Method": "Get",
+    "RelativePath": "Acesso",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "UsuarioApi.Controllers.UsuarioController",
     "Method": "CadastraUsuario",
     "RelativePath": "Usuario/cadastro",

@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/Acesso": {
+      "get": {
+        "tags": [
+          "Acesso"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/Usuario/cadastro": {
       "post": {
         "tags": [
